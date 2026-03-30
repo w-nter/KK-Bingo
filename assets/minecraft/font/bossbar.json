@@ -45,8 +45,8 @@
     {
       "type": "bitmap",
       "file": "custom:font/bossbar/bingo.png",
-      "ascent": 26,
-      "height": 26,
+      "ascent": 7,
+      "height": 13,
       "chars": ["\uE005"]
     },
     {
