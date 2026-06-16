@@ -1,0 +1,10 @@
+{
+  "layers": {
+    "wings": [
+      {
+        "texture": "minecraft:demisexual",
+        "use_player_texture": false
+      }
+    ]
+  }
+}

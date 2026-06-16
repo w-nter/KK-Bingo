@@ -2353,6 +2353,11 @@
 		{
             "type": "single",
             "resource": "custom:bmcc_interface/button/pressed"
-        }
+        },
+		{
+	    "type":"directory",
+	    "source":"model_textures",
+	    "prefix":"model_textures/"
+	}
     ]
 }

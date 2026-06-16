@@ -1,0 +1,10 @@
+{
+  "layers": {
+    "wings": [
+      {
+        "texture": "minecraft:trans",
+        "use_player_texture": false
+      }
+    ]
+  }
+}

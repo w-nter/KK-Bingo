@@ -1,0 +1,10 @@
+{
+  "layers": {
+    "wings": [
+      {
+        "texture": "minecraft:bisexual",
+        "use_player_texture": false
+      }
+    ]
+  }
+}
