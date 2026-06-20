@@ -83,6 +83,13 @@
           "type": "minecraft:model",
           "model": "custom:pride/gay/elytra"
         }
+      },
+      {
+        "threshold": 100,
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/elytra"
+        }
       }
     ]
   }
