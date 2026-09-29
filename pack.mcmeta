@@ -1,7 +1,8 @@
 {
     "pack": {
         "description": "KK Bbf Pack - By LukeEXE & DrBrandini",
-        "pack_format": 64,
+        "min_format": 69.0,
+    	"max_format": 32767,
 		"sodium": { 
 		  "ignored_shaders": [ 
 		     "rendertype_cutout.json",
